@@ -129,3 +129,45 @@
 .plan-description{
     color: #636161;
 }
+/* extra skills section  */
+.extra-title{
+    text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #311e5d;
+    margin-bottom: 50px;
+}
+.extra-sections{
+    display: flex;
+    gap: 30px;
+    background-color: #dfd4f8;
+    padding: 60px;
+}
+.skills{
+    background:#f6f6f6;
+    padding: 15px;
+    border-radius: 20px 0px ;
+    border-top:30px solid #311e5d;
+    box-shadow: 10px 5px 15px  #311e5d;
+    height: 250px;
+    width: 350px;
+
+}
+.skills img{
+    width: 50px;
+    padding-bottom:15px ;
+
+}
+.skill-title{
+    font-family: 'Work Sans';
+    line-height: 35px;
+    color: #311e5d;
+
+}
+.skill-description{
+    font-family: 'Work Sans';
+    line-height: 20px;
+    color: #636161;
+}
