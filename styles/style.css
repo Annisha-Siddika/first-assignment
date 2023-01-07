@@ -198,3 +198,54 @@
     margin-top: 24px;
     cursor: pointer;
 }
+.footer-section{
+    background: #151414;
+    display: flex;
+    justify-content: space-between;
+    gap: 330px;
+    padding:100px 130px;
+}
+.contact-side{
+    font-family: 'Work Sans';
+    color:#d2d0d0 ;
+    width: 50%;
+}
+.contact-title{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.contact-description{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+/* from side styles */
+.form-side{
+    width: 50%;
+    font-family: 'Work Sans';
+}
+.form-side label{
+    color: #d2d0d0;
+    font-weight: 600;
+    font-size: 20px;
+}
+.form-side input{
+    width: 70%;
+    background-color: #151414;
+    border: 1px solid #fefefe;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.sub-btn{
+    background-color: #311e5d;
+    color: #fefefe;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 15px 25px;
+    border: 0;
+    border-radius: 5px;
+}
