@@ -80,7 +80,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    color: rgb(99, 97, 97);
+    color: #636161;
     margin-bottom: 15px;
 }
 .sub-description i{
@@ -93,4 +93,39 @@
     font-size: 16px;
     line-height: 26px;
     color: #311e5d98;
+}
+/* my plan section style  */
+
+.plan-title{
+    text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #311e5d;
+    margin-bottom: 50px;
+}
+.plans-sections{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+
+}
+.plans{
+    text-align: center;
+    font-family: 'Work Sans';
+    line-height: 35px;
+    margin-bottom: 130px;
+}
+.plans img{
+    width: 92px;
+    height: 92px;
+
+}
+.plan-sub-title{
+    color: #311e5d;
+
+}
+.plan-description{
+    color: #636161;
 }
