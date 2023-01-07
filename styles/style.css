@@ -5,7 +5,7 @@
 
 /* banner styles */
 .banner {
-    background-image: url(./images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -175,7 +175,7 @@
 .gradient-section{
     margin: 100px 180px;
     background-image: linear-gradient(to right, #311e5d,
-    #311e5d61, #311e5d00), url(./images/watch.png);
+    #311e5d61, #311e5d00), url(../images/watch.png);
     background-size: cover;
     padding: 50px 400px 60px 40px;
     font-family: 'Work Sans';
