@@ -32,7 +32,7 @@
     line-height: 25px;
 }
 
-.banner-btn {}
+
 
 .btn-primary {
     background-color: #311e5d;
@@ -170,4 +170,31 @@
     font-family: 'Work Sans';
     line-height: 20px;
     color: #636161;
+}
+/* gradient section style */
+.gradient-section{
+    margin: 100px 180px;
+    background-image: linear-gradient(to right, #311e5d,
+    #311e5d61, #311e5d00), url(/images/watch.png);
+    background-size: cover;
+    padding: 50px 400px 60px 40px;
+    font-family: 'Work Sans';
+    line-height: 35px;
+    color: #fcfcfc;
+    border-radius: 5px;
+}
+.gradient-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.gradient-btn{
+    background-color: #fefefe;
+    color: #311e5d;
+    border-radius: 5px;
+    border: 0;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 12px 18px;
+    margin-top: 24px;
+    cursor: pointer;
 }
